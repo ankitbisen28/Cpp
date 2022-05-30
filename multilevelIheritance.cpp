@@ -37,9 +37,9 @@ class Marks : public Student
         void putmarks()
         {
             cout << "\n Marks obtained";
-            cout << "\n Mark 1 : " << m1;
-            cout << "\n Mark 2 : " << m2;
-            cout << "\n Mark 3 : " << m3 << endl;
+            cout << "\n Marks 1 : " << m1;
+            cout << "\n Marks 2 : " << m2;
+            cout << "\n Marks 3 : " << m3 << endl;
         }
 };
 
