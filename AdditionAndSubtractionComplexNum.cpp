@@ -32,7 +32,8 @@ class Complex
         
         void display()
         {
-            cout << real << "+j" << imag << endl;
+            cout << real << "+j" << imag << endl
+            ;
         }
 };
 
